@@ -5,7 +5,7 @@ This repository contains notebooks and scripts to reproduce analyses benchmarkin
 We recommend reviewing the [scvi-tools](https://scvi-tools.org/) documentation to get started.
 
 ## Repository structure
-We provide here all notebooks to reproduce the results.
+We provide here all notebooks to reproduce the results (notebooks with all outputs are managed by lfs).
 
 - analysis notebooks and scripts:
   - `figure1.ipynb` - notebook to recreate molecule displays in figure 1
