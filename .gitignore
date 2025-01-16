@@ -37,3 +37,4 @@ __pycache__/
 *.svg
 *.csv
 *.ipynb_checkpoints
+*.pt
