@@ -1,0 +1,10 @@
+{
+    "Cancer_cell": ["REG1A", "STMN1", "NDRG1", "PGK1"],
+    "Fibroblast": ["ACTA2", "CCL21", "COL1A1", "IGFBP3", "COL4A1", "COL4A2", "RGS5", "PDGFRB", "PDGFRA"],
+    "Hepatocyte": ["AZGP1", "CRP", "FASN", "INSIG1", "HMGCS1", "APOA1", "TTR"],
+    "Bcell": ["CD19", "CD79A", "IGHD", "IGHG1", "IGHG2", "IGHM", "IGKC"],
+    "Tcell": ["CD2", "CD8A", "CD3D", "CD3E", "CD3G", "FOXP3"],
+    "Erythrocyte": ["HBA1", "HBB"],
+    "Macrophage": ["LYZ", "CSF1R", "CD163", "CD68", "C1QA", "C1QB", "C1QC", "CD5L", "MARCO"]
+}
+

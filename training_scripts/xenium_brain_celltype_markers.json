@@ -1,0 +1,9 @@
+{
+    "Astrocytes": ["Gfap", "Gjc3", "Sox10", "Opalin"],
+    "Fibroblast": ["Col1a1", "Aldh1a2", "Dcn", "Pdgfra", "Cspg4", "Gpr17"],
+    "Oligodendrocyte": ["Aqp4", "Ntsr2", "Id2"],
+    "Excitatory_neuron": ["Cbln1", "Plcxd2", "Nrep", "Nrn1", "Slc17a6", "Slc17a7"],
+    "Inhibitory_neurons": ["Rab3b", "Calb1", "Gad1", "Gad2"],
+    "Endothelial": ["Cldn5", "Pecam1", "Adgrl4", "Ly6a"],
+    "Microglia": ["Trem2", "Siglech", "Cd53", "Laptm5", "Cd68"]
+}

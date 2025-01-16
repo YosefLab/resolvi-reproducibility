@@ -1,0 +1,8 @@
+{
+    "Hepatocyte": ["G6pc", "Aldh1b1", "Pck1", "Cyp17a1", "Cyp1a2", "Gck", "Gpd1", "Acsl1"],
+    "Stellate_cell": ["Pth1r", "Hgf", "Col1a2", "Pdgfra", "Col6a1"],
+    "Cholangiocyte": ["Epcam", "Bcam"],
+    "Endothelial": ["Aqp1", "Cd300lg", "Vwf", "Pecam1"],
+    "Myeloid": ["Mpeg1", "Adgre1", "Csf1r", "Itgam"],
+    "Tcell": ["Lck", "Satb1", "Gimap3", "Klrb1c"]
+}
