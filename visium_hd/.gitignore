@@ -3,3 +3,5 @@
 *.cloupe
 binned_outputs/
 spatial/
+old_files/
+scvi-tools/
